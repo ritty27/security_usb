@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="des.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Main.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Main.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Main.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\Camera Roll\white.PNG">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\white.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\문서\카카오톡 받은 파일\img.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\background.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img9.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img10.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img11.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img12.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\bmp\bg_Img14.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big9.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big10.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big11.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big12.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\사진\big14.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
